@@ -14,4 +14,4 @@ This is sheet
 
 I will be saving om klop1
 
-Paris is the capital of France
+Paris and London are capitals
