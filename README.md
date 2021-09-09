@@ -14,4 +14,4 @@ This is sheet
 
 I will be saving om klop1
 
-London is the capital of Great Britain
+Paris and London are capitals
